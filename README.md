@@ -13,7 +13,8 @@ Projeto realizado para aprendizagem de Desenvolvimento WEB.
 <br>
 
 <p align="center">
-  <img alt="Telas de preview do projeto" src="[.github/assets/assets/preview.png](https://raw.githubusercontent.com/thdoudement/my-links/main/assets/assets/preview.png)" width="100%">
+  <img alt="Telas de preview do projeto" src="![image](https://github.com/thdoudement/my-links/assets/110927878/174479c3-8193-44ac-9316-bfd619fbe6f2)
+" width="100%">
 </p>
 
 ## 🚀 Visão Geral
