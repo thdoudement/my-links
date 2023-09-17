@@ -13,7 +13,7 @@ Projeto realizado para aprendizagem de Desenvolvimento WEB.
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Telas de preview do projeto" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Visão Geral
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Funcionalidades Principais
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+O My Links é um projeto que agrega links para usar como quiser.
 
 ---
 
