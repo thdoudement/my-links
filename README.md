@@ -14,11 +14,7 @@ Projeto realizado para aprendizagem de Desenvolvimento WEB.
 
 ![image](https://github.com/thdoudement/my-links/assets/110927878/08310f6c-ad32-4b8a-aeb3-73c5bef37220)
 
-
-<p align="center">
-  <img alt="Telas de preview do projeto" src="![image](https://github.com/thdoudement/my-links/assets/110927878/174479c3-8193-44ac-9316-bfd619fbe6f2)
-" width="100%">
-</p>
+<br>
 
 ## 🚀 Visão Geral
 
