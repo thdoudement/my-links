@@ -13,7 +13,7 @@ Projeto realizado para aprendizagem de Desenvolvimento WEB.
 <br>
 
 <p align="center">
-  <img alt="Telas de preview do projeto" src=".github/preview.png" width="100%">
+  <img alt="Telas de preview do projeto" src=".github/assets/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Visão Geral
